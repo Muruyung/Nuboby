@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimaryDark"
+    android:gravity="center"
+    tools:context=".LoginActivity">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="vertical">
+
+<!--            <EditText-->
+<!--                android:id="@+id/Token"-->
+<!--                android:layout_width="272dp"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:layout_marginTop="5dp"-->
+<!--                android:layout_marginBottom="2.5dp"-->
+<!--                android:ems="10"-->
+<!--                android:hint="Token"-->
+<!--                android:inputType="textPersonName" />-->
+
+            <EditText
+                android:id="@+id/UserName"
+                android:layout_width="272dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="2.5dp"
+                android:ems="10"
+                android:hint="Username"
+                android:inputType="textPersonName" />
+
+            <EditText
+                android:id="@+id/passWd"
+                android:layout_width="272dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="2.55dp"
+                android:layout_marginBottom="5dp"
+                android:ems="10"
+                android:hint="Password"
+                android:inputType="textPassword" />
+
+            <Button
+                android:id="@+id/btnLogin"
+                android:layout_width="134dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:backgroundTint="@color/colorPrimary"
+                android:text="Login"
+                android:textColor="@android:color/black" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

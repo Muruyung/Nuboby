@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">NubobyApp</string>
+    <string name="title_activity_nomor_kelas_tanding">nomor_kelas_tanding</string>
+    <string name="nomor_pertandingan">Nomor Pertandingan</string>
+    <string name="kata">KATA</string>
+    <string name="komite">KOMITE</string>
+    <string name="tatami">Tatami</string>
+    <string name="pilih">Pilih</string>
+    <string name="juri">Juri</string>
+    <string name="mulai_penilaian">Mulai Penilaian</string>
+    <string name="yakin_untuk_melanjutkan">Yakin untuk melanjutkan?</string>
+    <string name="iya">Iya</string>
+    <string name="batal">Batal</string>
+    <string name="berhasil_memasukkan_penilaian">BERHASIL MEMASUKKAN PENILAIAN</string>
+    <string name="ok">Ok</string>
+    <string name="nomor">nomor</string>
+    <string name="nama_atlit">Nama Atlit</string>
+    <string name="judul_pertandingan">JUDUL PERTANDINGAN</string>
+    <string-array name="nomor_tatanami">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+    <string-array name="nomor_juri">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+</resources>

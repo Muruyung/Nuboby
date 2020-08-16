@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "17385047353",
+    "firebase_url": "https://nubobyapp.firebaseio.com",
+    "project_id": "nubobyapp",
+    "storage_bucket": "nubobyapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17385047353:android:4da550252aa6fa61",
+        "android_client_info": {
+          "package_name": "com.example.nubobyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17385047353-7474udag48hb0kpbm9ok9ok12v3d8bpt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nubobyapp",
+            "certificate_hash": "2935265632119ab5f5dd9d9b7172df4d4eebc028"
+          }
+        },
+        {
+          "client_id": "17385047353-vb7t9l22ijf8odqdpabed97ul02novb7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk_cpwmefPYlP3qPwOf_S9tC1CoytCN6A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17385047353-vb7t9l22ijf8odqdpabed97ul02novb7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
