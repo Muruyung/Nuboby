@@ -1,2 +1,3 @@
 # Nuboby
- A web-based karate tournament assessment project (KATA) that is connected to an android application in realtime
+ A android-based karate tournament assessment project (KATA) that is connected to an web application in realtime
+ This application is used by the jury to make an valuation
